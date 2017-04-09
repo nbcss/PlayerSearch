@@ -1,0 +1,12 @@
+name: SearchPlayer
+main: me.nbcss.searchPlayer.MainClass
+description: For search player
+version: 1.0
+depend: [QuickGUI, ProtocolLib]
+
+commands:
+   search:
+      description: Search a player from network
+      usage: /search
+      permission: null
+      permission-message: You don't have <permission>
