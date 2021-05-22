@@ -1,3 +1,3 @@
 # PlayerSearch
-一个搜索玩家的插件 仅在1.11.2环境下运作
-前置插件源码请查阅我另一个项目QuickGUI
+A demo plugin for search player information in 1.11.2 environment
+For information of its pre-request plugin, please check my another project QuickGUI
